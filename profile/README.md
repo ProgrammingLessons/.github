@@ -1,4 +1,4 @@
-## Hi,
+## Hi Eveyone,
 
 Learning software is an art. But this art has certain criteria. After learning these criteria in order, you can go further to the software world than the "Hello World" article. In order to do this art well, it is necessary to take certain steps.
 A road map that can be used to go further;
