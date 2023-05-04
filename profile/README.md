@@ -11,11 +11,9 @@ A road map that can be used to go further;
   * https://udemy.com/course/aspnet-6-course/
   * https://udemy.com/course/docker4dotnet/
 * Soft Skills
-  * https://udemy.com/course/profesional-zaman-yonetimi/
-  * https://udemy.com/course/zaman-yonetimi-ve-onceliklenen/
 
 
-If you apply this roadmap, it means that you have reached a certain level in software. In the roadmap, when making software under the heading of Soft Skills, the nature of the business involves customer management and it is necessary to use it well. Communicating with the people you work with is an important part of training. That's why I recommend you to watch the trainings under the title of Soft Skills.
+If you apply this roadmap, it means that you have reached a certain level in software. In the roadmap, when making software under the heading of Soft Skills, the nature of the business involves customer management and it is necessary to use it well. Communicating with the people you work with is an important part of training. That's why you can research and progress under the Soft Skills heading.
 
 I used the udemy site in education. In addition to these, you can choose different platforms such as github and linkedIn.
 
